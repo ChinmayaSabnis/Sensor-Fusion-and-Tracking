@@ -1,2 +1,5 @@
-# Sensor-Fusion-and-Tracking
+# Sensor Fusion and Tracking for Autonomous Electric Vehicle
 Sensor fusion and object tracking in virtual environment with use of Mathworks-MATLAB-2019-B
+
+Autonomous systems range from vehicles that meet the various SAE levels of autonomy to systems including consumer quadcopters, package delivery drones, flying taxis, and robots for disaster relief and space exploration. Every autonomous system can be described at a high level with the block diagram. Autonomous systems rely on sensor suites that provide data about the surrounding environment to feed the perception system. These sensors include radars and cameras, which provide detections of objects in their field of view. They also include lidar sensors, which provide point clouds of returns from obstacles in the environment, and in some cases, ultrasound and sonar sensors. Autonomous systems must also be able to estimate their position to maintain self-awareness. For this, sensors such as inertial measurement units (IMUs) and global positioning system (GPS) receivers are used. 
+This repository contais files, support documents, and simulation results of the project carried out under the given title.
